@@ -1,0 +1,8 @@
+Requirements for Stock Picker Agent:
+
+CrewAI installed.
+
+Used Gemini 2.5 flash for this. It also works with OpenAI models.
+
+The Gemini SDK is also used here for ease of development. yfinance allows for stock names to be sent easily to Gemini.
+
